@@ -269,3 +269,7 @@ form {
  .a{
      color: blue;
  }
+.text{
+    text-align: center;
+    font-size: small; 
+ }
